@@ -15,4 +15,4 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            This issue is available for anyone to work on.
+            This issue is available for anyone to work on. :)
